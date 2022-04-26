@@ -1,3 +1,3 @@
-# automation-practice-artist request
+# automation-practice-artist's discography
 
-learning automation and how to interact with API's 
+learning automation and how to interact with API's through creating a program that prompts a user for an artist and returns their discography
